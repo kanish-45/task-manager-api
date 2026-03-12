@@ -1,7 +1,7 @@
 
 ## Author
 
-Kanish Kaarthic V M
+Kanish Kaarthick V M
 
 # DevOps CI/CD Pipeline with Kubernetes
 
